@@ -1,14 +1,24 @@
 
-
-
 *
 body {
+
 
     margin: 0px;
     padding: 0%;
     box-sizing: border-box;
 }
 
+
+body {
+    font-family: 'Oswald', sans-serif !important;
+}
+h5{
+    color:  white;
+}
+a{
+    color:  white;
+    text-decoration: none
+}
 
 
 /* Gael's part Code : Navbar and description */
