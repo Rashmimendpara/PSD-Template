@@ -31,6 +31,9 @@ align-items: center;
     
     
 }
+.navrBar-btn:hover{
+background-color: #Ffcf00;
+}
 
 .list-navbar-menu{
     list-style:none;
@@ -45,6 +48,11 @@ align-items: center;
     cursor: pointer;
     
 }
+
+.navbar-btn:hover{
+    color: #00dfff;
+}
+
 
 .navbar-input{
     height:25px;
@@ -140,6 +148,12 @@ align-items: center;
     #00dfff;
 }
 
+.hero-contact-us-btn:hover{
+  background-color:transparent;
+  border:solid;
+    
+}
+
 .hero-our-service-btn{
     width:100px;
     height:30px;
@@ -147,4 +161,19 @@ align-items: center;
     border:solid white;
     border-radius: 4px;
     color:white;
+}
+
+.hero-our-service-btn:hover{
+    background-color:#00dfff;
+    border:none;
+}
+
+
+.hero-link{
+    text-decoration: none;
+    color: white;
+}
+
+.hero-link:hover{
+    color:#00dfff;
 }
