@@ -3,8 +3,17 @@
     margin: 0px;
     padding: 0%;
     box-sizing: border-box;
+    font-family: 'Oswald', sans-serif !important;
 }
 
+h5 {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none
+}
 
 /*section4*/
 .solution {
