@@ -10,10 +10,6 @@ h5 {
     color: white;
 }
 
-a {
-    color: white;
-    text-decoration: none
-}
 
 /*section4*/
 .solution {
@@ -331,7 +327,8 @@ a {
 .dog img {
     padding-left: 100px;
     padding-top: 160px;
-    height: 300px;
+    padding-bottom: 20px;
+    height: 500px;
     position: absolute;
 }
 
@@ -346,11 +343,12 @@ a {
 }
 
 .OurServicebutton {
-    width: 100px;
-    height: 40px;
+    width: 150px;
+    height: 70px;
     border-radius: 7px;
     background-color: #fcc302;
     color: white;
+
 }
 
 .section-team {
@@ -402,15 +400,7 @@ a {
     border: solid 4px white;
 }
 
-.textwrapper {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-}
-
 .persons span {
     color: white;
     font-weight: lighter;
-    text-align: center;
 }
